@@ -1,6 +1,7 @@
 # walletappui
 
 A new Flutter project.
+![Screenshot_1680034168](https://user-images.githubusercontent.com/77581157/228355731-fd8c2ccb-3ecb-4cff-8cff-293a26dac1b0.png)
 
 ## Getting Started
 
